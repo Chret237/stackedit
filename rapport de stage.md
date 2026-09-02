@@ -478,8 +478,8 @@ Et derrière les trois :
 
 # CONCLUSION
 
-Ce stage m'a également confronté à des problèmes réels, notamment des difficultés liées aux communications entre services, aux déploiements ECS, aux images Docker, aux credentials AWS et à la facturation de certaines ressources cloud. Ces situations ont constitué des occasions importantes d'appliquer une démarche de diagnostic et de résolution de problèmes.
+Ce stage pratique m'a confronté à des problèmes réels, notamment des difficultés liées aux communications entre services, aux déploiements ECS, aux images Docker, aux credentials AWS et à la facturation de certaines ressources cloud. Ces situations ont constitué des occasions importantes d'appliquer une démarche de diagnostic et de résolution de problèmes.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMzcyNDEzOTEsMTMwMTAwOTM0NSwtMT
-I5NDcxNzA0OSw1OTIzMzg3MjVdfQ==
+eyJoaXN0b3J5IjpbLTcyMDI3NDE0LDEzMDEwMDkzNDUsLTEyOT
+Q3MTcwNDksNTkyMzM4NzI1XX0=
 -->
