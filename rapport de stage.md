@@ -1,4 +1,4 @@
-### Sprint 1 — Méthodes de travail, productivité et fondamentaux numériques
+# Sprint 1 — Méthodes de travail, productivité et fondamentaux numériques
 
 Le premier sprint avait pour objectif de construire les bases méthodologiques et professionnelles nécessaires avant d’aborder l’infrastructure et les outils DevOps plus avancés.
 
@@ -191,7 +191,7 @@ Cette formation m’a permis de comprendre qu’un cluster fonctionnel n’est p
 
 ----------
 
-# Mini-projet Sprint 2 — Formuloo Compta
+## Mini-projet Sprint 2 — Formuloo Compta
 
 Le mini-projet du Sprint 2 a constitué la première grande mise en pratique des acquis DevOps.
 
@@ -469,57 +469,8 @@ FORMULOO COMPTA
 Prometheus + Grafana + AWS EC2
 ```
 
-## Plan de présentation corrigé
 
-Je modifierais donc aussi le plan précédent en gardant **11 slides maximum** :
 
-Slide
-
-Contenu
-
-**1**
-
-Titre, entreprise, période et contexte du stage
-
-**2**
-
-Présentation de Formuloo + objectifs du stage
-
-**3**
-
-Organisation du stage et progression des 3 sprints
-
-**4**
-
-Sprint 1 — Agile, IA, marketing, personal branding et terminal
-
-**5**
-
-Sprint 2 — Kubernetes, Helm, Terraform et sécurité
-
-**6**
-
-Mini-projet S2 — Formuloo Compta : Docker → GitLab CI/CD → ECR → AWS ECS
-
-**7**
-
-Difficultés du projet S2 et démarche de debugging
-
-**8**
-
-Sprint 3 — Ansible, Argo CD, observabilité et résilience
-
-**9**
-
-Mini-projet S3 — Prometheus + Grafana sur AWS EC2
-
-**10**
-
-Compétences et acquis techniques/professionnels
-
-**11**
-
-Bilan, évolution personnelle et perspectives
 
 La **slide 3** devient essentielle : elle donnera immédiatement au jury la logique de tout le stage.
 
@@ -535,5 +486,5 @@ Et derrière les trois :
 
 Cette nouvelle répartition remplacera donc celle de mon précédent brouillon. Le prochain niveau pertinent est maintenant de **réécrire le rapport complet, chapitre par chapitre, dans le format ENSPD et dans une longueur réaliste de 15–20 pages**, en utilisant exactement ces trois sprints comme déroulement officiel du stage.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM5NzcxNTA0MCw1OTIzMzg3MjVdfQ==
+eyJoaXN0b3J5IjpbLTEyOTQ3MTcwNDksNTkyMzM4NzI1XX0=
 -->
