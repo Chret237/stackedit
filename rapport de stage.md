@@ -468,9 +468,6 @@ Résilience
 FORMULOO COMPTA
 Prometheus + Grafana + AWS EC2
 ```
-
-# CONCLUSION
-
 > **Sprint 1 : apprendre à travailler efficacement.**  
 > **Sprint 2 : apprendre à construire et déployer.**  
 > **Sprint 3 : apprendre à exploiter, observer et fiabiliser.**
@@ -479,7 +476,10 @@ Et derrière les trois :
 
 > **Formuloo Compta a servi de terrain pratique permettant de transformer les formations en compétences opérationnelles.**
 
+# CONCLUSION
+
+Ce stage m'a également confronté à des problèmes réels, notamment des difficultés liées aux communications entre services, aux déploiements ECS, aux images Docker, aux credentials AWS et à la facturation de certaines ressources cloud. Ces situations ont constitué des occasions importantes d'appliquer une démarche de diagnostic et de résolution de problèmes.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMwMTAwOTM0NSwtMTI5NDcxNzA0OSw1OT
-IzMzg3MjVdfQ==
+eyJoaXN0b3J5IjpbLTEyMzcyNDEzOTEsMTMwMTAwOTM0NSwtMT
+I5NDcxNzA0OSw1OTIzMzg3MjVdfQ==
 -->
