@@ -437,7 +437,6 @@ Ce projet m’a permis de mettre en pratique plusieurs notions du Sprint 3 :
     
 -   réflexion autour des indicateurs pertinents pour une application réelle.
     
-
 ----------
 
 # En Résumé
@@ -517,7 +516,7 @@ C'est cette évolution qui représente, selon moi, l'un des principaux acquis du
 
 Ce stage pratique m'a confronté à des problèmes réels, notamment des difficultés liées aux communications entre services, aux déploiements ECS, aux images Docker, aux credentials AWS et à la facturation de certaines ressources cloud. Ces situations ont constitué des occasions importantes d'appliquer une démarche de diagnostic et de résolution de problèmes.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNDIzMzkwMTMsNTIwMDgzNjM2LDEyNz
-IwNTI2NTMsLTcyMDI3NDE0LDEzMDEwMDkzNDUsLTEyOTQ3MTcw
-NDksNTkyMzM4NzI1XX0=
+eyJoaXN0b3J5IjpbMzAyMzU5ODQ5LDUyMDA4MzYzNiwxMjcyMD
+UyNjUzLC03MjAyNzQxNCwxMzAxMDA5MzQ1LC0xMjk0NzE3MDQ5
+LDU5MjMzODcyNV19
 -->
