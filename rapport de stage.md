@@ -1,4 +1,11 @@
-# Sprint 1 — Méthodes de travail, productivité et fondamentaux numériques
+# INTRODUCTION GÉNÉRALE
+Le développement des applications modernes ne se limite plus à l'écriture du code. La mise à disposition rapide, fiable et sécurisée d'une application nécessite aujourd'hui la collaboration entre les différentes étapes du cycle de vie logiciel : développement, intégration, tests, déploiement, supervision et amélioration continue.
+
+C'est dans ce contexte que s'inscrit mon stage effectué au sein de **Formuloo**, dans lequel j'ai été amené à découvrir puis à mettre en pratique différentes technologies et méthodes liées au domaine du **DevOps**.
+
+> **Objectif :** comprendre comment Ansible permet d'automatiser la configuration et l'administration de plusieurs machines de manière déclarative, reproductible et idempotente.
+
+## Sprint 1 — Méthodes de travail, productivité et fondamentaux numériques
 
 Le premier sprint avait pour objectif de construire les bases méthodologiques et professionnelles nécessaires avant d’aborder l’infrastructure et les outils DevOps plus avancés.
 
@@ -480,6 +487,6 @@ Et derrière les trois :
 
 Ce stage pratique m'a confronté à des problèmes réels, notamment des difficultés liées aux communications entre services, aux déploiements ECS, aux images Docker, aux credentials AWS et à la facturation de certaines ressources cloud. Ces situations ont constitué des occasions importantes d'appliquer une démarche de diagnostic et de résolution de problèmes.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcyMDI3NDE0LDEzMDEwMDkzNDUsLTEyOT
-Q3MTcwNDksNTkyMzM4NzI1XX0=
+eyJoaXN0b3J5IjpbOTYyNDQyMDExLC03MjAyNzQxNCwxMzAxMD
+A5MzQ1LC0xMjk0NzE3MDQ5LDU5MjMzODcyNV19
 -->
