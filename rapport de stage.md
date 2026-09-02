@@ -385,7 +385,7 @@ mais également :
 
 ----------
 
-# Mini-projet Sprint 3 — Observabilité Formuloo Compta
+## Mini-projet Sprint 3 — Observabilité Formuloo Compta
 
 Le dernier mini-projet du stage consistait à mettre en œuvre l’observabilité de **Formuloo Compta** à l’aide d’une stack :
 
@@ -469,12 +469,7 @@ FORMULOO COMPTA
 Prometheus + Grafana + AWS EC2
 ```
 
-
-
-
-La **slide 3** devient essentielle : elle donnera immédiatement au jury la logique de tout le stage.
-
-### Le message à faire ressortir
+# CONCLUSION
 
 > **Sprint 1 : apprendre à travailler efficacement.**  
 > **Sprint 2 : apprendre à construire et déployer.**  
@@ -483,8 +478,7 @@ La **slide 3** devient essentielle : elle donnera immédiatement au jury la logi
 Et derrière les trois :
 
 > **Formuloo Compta a servi de terrain pratique permettant de transformer les formations en compétences opérationnelles.**
-
-Cette nouvelle répartition remplacera donc celle de mon précédent brouillon. Le prochain niveau pertinent est maintenant de **réécrire le rapport complet, chapitre par chapitre, dans le format ENSPD et dans une longueur réaliste de 15–20 pages**, en utilisant exactement ces trois sprints comme déroulement officiel du stage.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyOTQ3MTcwNDksNTkyMzM4NzI1XX0=
+eyJoaXN0b3J5IjpbMTU0NTYwNDY5MSwtMTI5NDcxNzA0OSw1OT
+IzMzg3MjVdfQ==
 -->
