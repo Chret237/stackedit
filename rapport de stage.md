@@ -446,7 +446,7 @@ La progression du stage est la suivante :
 
 ```text
 SPRINT 1
-Comprendre comment travailler efficacement et être productif
+Comment travailler efficacement et être productif
         ↓
 Agile / Scrum
 IA
@@ -468,7 +468,7 @@ Docker + GitLab CI/CD + AWS
         ↓
 
 SPRINT 3
-Exploiter et fiabiliser
+Exploiter, observer et fiabiliser
         ↓
 Ansible
 Argo CD
@@ -490,7 +490,7 @@ Et derrière les trois :
 
 Ce stage pratique m'a confronté à des problèmes réels, notamment des difficultés liées aux communications entre services, aux déploiements ECS, aux images Docker, aux credentials AWS et à la facturation de certaines ressources cloud. Ces situations ont constitué des occasions importantes d'appliquer une démarche de diagnostic et de résolution de problèmes.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDcxMTIyNTcsMTI3MjA1MjY1MywtNzIwMj
-c0MTQsMTMwMTAwOTM0NSwtMTI5NDcxNzA0OSw1OTIzMzg3MjVd
-fQ==
+eyJoaXN0b3J5IjpbNTIwMDgzNjM2LDEyNzIwNTI2NTMsLTcyMD
+I3NDE0LDEzMDEwMDkzNDUsLTEyOTQ3MTcwNDksNTkyMzM4NzI1
+XX0=
 -->
