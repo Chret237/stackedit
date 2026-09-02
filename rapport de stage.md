@@ -486,11 +486,26 @@ Et derrière les trois :
 
 > **Formuloo Compta a servi de terrain pratique permettant de transformer les formations en compétences opérationnelles.**
 
+# Vie professionnelle et Évolution personnelle
+
+Au-delà des outils, le stage m'a permis de comprendre plusieurs aspects de la vie professionnelle.
+
+J'ai notamment appris l'importance :
+
+-   de la ponctualité ;
+-   de l'autonomie ;
+-   de la communication ;
+-   de la capacité à demander de l'aide lorsque nécessaire ;
+-   de la documentation ;
+-   du travail collaboratif ;
+-   de la capacité à expliquer un problème ;
+-   de l'adaptation face à des technologies nouvelles.
+
 # CONCLUSION
 
 Ce stage pratique m'a confronté à des problèmes réels, notamment des difficultés liées aux communications entre services, aux déploiements ECS, aux images Docker, aux credentials AWS et à la facturation de certaines ressources cloud. Ces situations ont constitué des occasions importantes d'appliquer une démarche de diagnostic et de résolution de problèmes.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTIwMDgzNjM2LDEyNzIwNTI2NTMsLTcyMD
-I3NDE0LDEzMDEwMDkzNDUsLTEyOTQ3MTcwNDksNTkyMzM4NzI1
-XX0=
+eyJoaXN0b3J5IjpbLTEzMjM1MTkxOSw1MjAwODM2MzYsMTI3Mj
+A1MjY1MywtNzIwMjc0MTQsMTMwMTAwOTM0NSwtMTI5NDcxNzA0
+OSw1OTIzMzg3MjVdfQ==
 -->
