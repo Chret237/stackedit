@@ -478,7 +478,8 @@ Prometheus + Grafana + AWS EC2
 Et derrière les trois :
 
 > **Formuloo Compta a servi de terrain pratique permettant de transformer les formations en compétences opérationnelles.**
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU0NTYwNDY5MSwtMTI5NDcxNzA0OSw1OT
+eyJoaXN0b3J5IjpbMTMwMTAwOTM0NSwtMTI5NDcxNzA0OSw1OT
 IzMzg3MjVdfQ==
 -->
