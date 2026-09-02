@@ -431,7 +431,7 @@ Ce projet m’a permis de mettre en pratique plusieurs notions du Sprint 3 :
 
 # En Résumé
 
-La progression réelle du stage est la suivante:
+La progression du stage est la suivante :
 
 ```text
 SPRINT 1
@@ -468,8 +468,6 @@ Résilience
 FORMULOO COMPTA
 Prometheus + Grafana + AWS EC2
 ```
-
-C'est cette narration qui doit structurer aussi bien **le rapport que la soutenance**.
 
 ## Plan de présentation corrigé
 
@@ -537,5 +535,5 @@ Et derrière les trois :
 
 Cette nouvelle répartition remplacera donc celle de mon précédent brouillon. Le prochain niveau pertinent est maintenant de **réécrire le rapport complet, chapitre par chapitre, dans le format ENSPD et dans une longueur réaliste de 15–20 pages**, en utilisant exactement ces trois sprints comme déroulement officiel du stage.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAwNzM0NTE1Myw1OTIzMzg3MjVdfQ==
+eyJoaXN0b3J5IjpbMTM5NzcxNTA0MCw1OTIzMzg3MjVdfQ==
 -->
