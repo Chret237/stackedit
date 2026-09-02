@@ -501,11 +501,23 @@ J'ai notamment appris l'importance :
 -   de la capacité à expliquer un problème ;
 -   de l'adaptation face à des technologies nouvelles.
 
+L'évolution la plus importante au cours du stage est le passage d'une logique centrée sur **l'outil** à une logique centrée sur **le système**.
+
+Au début, il est naturel de se demander :
+
+> « Quelle commande ou outils dois-je utiliser ? »
+
+Progressivement, la question devient :
+
+> « Quel est le problème, dans quelle couche se trouve-t-il et quelle information me permet de le confirmer ? »
+
+C'est cette évolution qui représente, selon moi, l'un des principaux acquis du stage.
+
 # CONCLUSION
 
 Ce stage pratique m'a confronté à des problèmes réels, notamment des difficultés liées aux communications entre services, aux déploiements ECS, aux images Docker, aux credentials AWS et à la facturation de certaines ressources cloud. Ces situations ont constitué des occasions importantes d'appliquer une démarche de diagnostic et de résolution de problèmes.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMjM1MTkxOSw1MjAwODM2MzYsMTI3Mj
-A1MjY1MywtNzIwMjc0MTQsMTMwMTAwOTM0NSwtMTI5NDcxNzA0
-OSw1OTIzMzg3MjVdfQ==
+eyJoaXN0b3J5IjpbLTIwNDIzMzkwMTMsNTIwMDgzNjM2LDEyNz
+IwNTI2NTMsLTcyMDI3NDE0LDEzMDEwMDkzNDUsLTEyOTQ3MTcw
+NDksNTkyMzM4NzI1XX0=
 -->
