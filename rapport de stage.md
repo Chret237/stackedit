@@ -98,13 +98,13 @@ Cette maîtrise était indispensable pour la suite du stage, puisque Docker, Kub
 
 ----------
 
-# Sprint 2 — Conteneurisation, orchestration, Infrastructure as Code et CI/CD
+## Sprint 2 — Conteneurisation, orchestration, Infrastructure as Code et CI/CD
 
 Le Sprint 2 constitue véritablement le passage vers le **cœur technique du DevOps**.
 
 Son objectif était de comprendre comment construire, sécuriser et déployer une application moderne.
 
-## 1. Kubernetes
+### 1. Kubernetes
 
 Cette formation m’a permis de découvrir l’orchestration des conteneurs et plusieurs concepts fondamentaux :
 
@@ -127,7 +127,7 @@ Cette formation m’a permis de découvrir l’orchestration des conteneurs et p
 
 Elle m’a notamment permis de comprendre qu’il existe une différence importante entre **exécuter un conteneur Docker** et **orchestrer une application conteneurisée en production**.
 
-## 2. Helm
+### 2. Helm
 
 Helm a ensuite permis de simplifier et de structurer les déploiements Kubernetes.
 
@@ -146,7 +146,7 @@ Les principaux concepts abordés comprenaient :
 
 Helm peut ainsi être considéré comme un mécanisme de packaging permettant de rendre les ressources Kubernetes plus maintenables et configurables.
 
-## 3. Terraform
+### 3. Terraform
 
 Terraform a introduit le concept d'**Infrastructure as Code**.
 
@@ -173,7 +173,7 @@ J’ai appris à décrire une infrastructure à partir de fichiers déclaratifs 
 
 Cette approche permet de disposer d’une infrastructure reproductible, versionnable et automatisable.
 
-## 4. Sécurité Kubernetes
+### 4. Sécurité Kubernetes
 
 Une formation spécifique a également été consacrée à la sécurisation des environnements Kubernetes.
 
@@ -202,11 +202,11 @@ Cette formation m’a permis de comprendre qu’un cluster fonctionnel n’est p
 
 ----------
 
-## Mini-projet Sprint 2 — Formuloo Compta
+### Mini-projet Sprint 2 — Formuloo Compta
 
 Le mini-projet du Sprint 2 a constitué la première grande mise en pratique des acquis DevOps.
 
-### Objectif
+#### Objectif
 
 > **Conteneuriser Formuloo Compta, mettre en place une pipeline CI/CD GitLab et déployer l’application sur AWS.**
 
@@ -252,7 +252,7 @@ Ces difficultés ont fortement contribué au développement de ma capacité de *
 
 ----------
 
-# Sprint 3 — Configuration, GitOps, observabilité et résilience
+## Sprint 3 — Configuration, GitOps, observabilité et résilience
 
 Le Sprint 3 correspond à une nouvelle étape.
 
@@ -260,7 +260,7 @@ Après avoir appris à **déployer une application**, il fallait maintenant appr
 
 > **la configurer, maintenir son état, l’observer et la rendre plus résiliente.**
 
-## 1. Ansible — Configuration Management
+### 1. Ansible — Configuration Management
 
 La première formation concernait Ansible et la gestion automatisée de configuration.
 
@@ -491,6 +491,6 @@ Et derrière les trois :
 
 Ce stage pratique m'a confronté à des problèmes réels, notamment des difficultés liées aux communications entre services, aux déploiements ECS, aux images Docker, aux credentials AWS et à la facturation de certaines ressources cloud. Ces situations ont constitué des occasions importantes d'appliquer une démarche de diagnostic et de résolution de problèmes.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDg4MTMwOTgyLC03MjAyNzQxNCwxMzAxMD
-A5MzQ1LC0xMjk0NzE3MDQ5LDU5MjMzODcyNV19
+eyJoaXN0b3J5IjpbLTQzMzE5MzMwNywtNzIwMjc0MTQsMTMwMT
+AwOTM0NSwtMTI5NDcxNzA0OSw1OTIzMzg3MjVdfQ==
 -->
