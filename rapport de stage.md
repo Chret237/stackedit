@@ -287,7 +287,7 @@ Le laboratoire réalisé avec un environnement sous WSL et un nœud géré conte
 
 Cela m’a permis de comprendre que l’automatisation de configuration dépend également de couches sous-jacentes telles que le réseau, l’authentification et SSH.
 
-## 2. Argo CD — GitOps
+### 2. Argo CD — GitOps
 
 Argo CD m’a permis de découvrir le modèle GitOps.
 
@@ -326,7 +326,7 @@ Les notions étudiées incluent :
 
 Cette formation m’a permis de mieux distinguer les rôles respectifs de la CI et de la CD.
 
-## 3. Observabilité — Stack complète
+### 3. Observabilité — Stack complète
 
 La formation sur l’observabilité m’a permis d’aborder les trois piliers classiques :
 
@@ -353,7 +353,7 @@ Le travail autour des métriques Django m’a permis d’observer des informatio
 
 L’utilisation de PromQL permet ensuite de transformer ces métriques brutes en indicateurs exploitables.
 
-## 4. Résilience en production
+### 4. Résilience en production
 
 La dernière formation était consacrée à la capacité d’un système à continuer à fonctionner ou à revenir rapidement à un état opérationnel après une défaillance.
 
@@ -396,7 +396,7 @@ mais également :
 
 ----------
 
-## Mini-projet Sprint 3 — Observabilité Formuloo Compta
+### Mini-projet Sprint 3 — Observabilité Formuloo Compta
 
 Le dernier mini-projet du stage consistait à mettre en œuvre l’observabilité de **Formuloo Compta** à l’aide d’une stack :
 
@@ -491,6 +491,6 @@ Et derrière les trois :
 
 Ce stage pratique m'a confronté à des problèmes réels, notamment des difficultés liées aux communications entre services, aux déploiements ECS, aux images Docker, aux credentials AWS et à la facturation de certaines ressources cloud. Ces situations ont constitué des occasions importantes d'appliquer une démarche de diagnostic et de résolution de problèmes.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQzMzE5MzMwNywtNzIwMjc0MTQsMTMwMT
+eyJoaXN0b3J5IjpbMTI3MjA1MjY1MywtNzIwMjc0MTQsMTMwMT
 AwOTM0NSwtMTI5NDcxNzA0OSw1OTIzMzg3MjVdfQ==
 -->
