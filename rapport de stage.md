@@ -446,8 +446,7 @@ La progression du stage est la suivante :
 
 ```text
 SPRINT 1
-Comprendre comment travailler
-et être productif
+Comprendre comment travailler efficacement et être productif
         ↓
 Agile / Scrum
 IA
@@ -491,6 +490,7 @@ Et derrière les trois :
 
 Ce stage pratique m'a confronté à des problèmes réels, notamment des difficultés liées aux communications entre services, aux déploiements ECS, aux images Docker, aux credentials AWS et à la facturation de certaines ressources cloud. Ces situations ont constitué des occasions importantes d'appliquer une démarche de diagnostic et de résolution de problèmes.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI3MjA1MjY1MywtNzIwMjc0MTQsMTMwMT
-AwOTM0NSwtMTI5NDcxNzA0OSw1OTIzMzg3MjVdfQ==
+eyJoaXN0b3J5IjpbNDcxMTIyNTcsMTI3MjA1MjY1MywtNzIwMj
+c0MTQsMTMwMTAwOTM0NSwtMTI5NDcxNzA0OSw1OTIzMzg3MjVd
+fQ==
 -->
