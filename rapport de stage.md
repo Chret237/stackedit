@@ -3,7 +3,9 @@ Le développement des applications modernes ne se limite plus à l'écriture du 
 
 C'est dans ce contexte que s'inscrit mon stage effectué au sein de **Formuloo**, dans lequel j'ai été amené à découvrir puis à mettre en pratique différentes technologies et méthodes liées au domaine du **DevOps**.
 
-> **Objectif :** comprendre comment Ansible permet d'automatiser la configuration et l'administration de plusieurs machines de manière déclarative, reproductible et idempotente.
+> **Objectif :** L'objectif de cette expérience était de rapprocher les connaissances théoriques acquises au cours de ma formation des réalités d'un environnement professionnel. Le stage m'a ainsi permis de travailler progressivement sur plusieurs domaines : gestion du code source, conteneurisation avec Docker, intégration et déploiement continus, infrastructure as code, orchestration, gestion de configuration, GitOps, observabilité et résilience
+
+Cette progression a été organisée autour de **trois sprints**, chacun permettant d'approfondir un ensemble de compétences avant leur mise en application dans le projet **Formuloo Compta**  constitue le fil conducteur de cette expérience. Il s'agit d'une application web composée d'un **frontend Angular**, d'un **backend Django** et d'une base de données **PostgreSQL**. L'objectif était notamment de parvenir à automatiser son déploiement et à disposer d'une infrastructure reproductible dans le cloud.
 
 ## Sprint 1 — Méthodes de travail, productivité et fondamentaux numériques
 
@@ -487,6 +489,6 @@ Et derrière les trois :
 
 Ce stage pratique m'a confronté à des problèmes réels, notamment des difficultés liées aux communications entre services, aux déploiements ECS, aux images Docker, aux credentials AWS et à la facturation de certaines ressources cloud. Ces situations ont constitué des occasions importantes d'appliquer une démarche de diagnostic et de résolution de problèmes.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTYyNDQyMDExLC03MjAyNzQxNCwxMzAxMD
-A5MzQ1LC0xMjk0NzE3MDQ5LDU5MjMzODcyNV19
+eyJoaXN0b3J5IjpbMTM2NTM0NzM2NiwtNzIwMjc0MTQsMTMwMT
+AwOTM0NSwtMTI5NDcxNzA0OSw1OTIzMzg3MjVdfQ==
 -->
