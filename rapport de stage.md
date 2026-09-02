@@ -429,9 +429,7 @@ Ce projet m’a permis de mettre en pratique plusieurs notions du Sprint 3 :
 
 ----------
 
-# La progression réelle de ton stage
-
-Avec cette correction, le fil directeur de ton rapport devient beaucoup plus fort :
+# Résumé de la progression réelle du stage
 
 ```text
 SPRINT 1
@@ -537,5 +535,5 @@ Et derrière les trois :
 
 Cette nouvelle répartition remplacera donc celle de mon précédent brouillon. Le prochain niveau pertinent est maintenant de **réécrire le rapport complet, chapitre par chapitre, dans le format ENSPD et dans une longueur réaliste de 15–20 pages**, en utilisant exactement ces trois sprints comme déroulement officiel du stage.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTkyMzM4NzI1XX0=
+eyJoaXN0b3J5IjpbMjMwNzYxODk3LDU5MjMzODcyNV19
 -->
